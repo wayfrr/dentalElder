@@ -6,5 +6,4 @@ urlpatterns = [
     path('contact.html',views.contact, name="contact"),
 ]
 
-##Test Comment for GitHub
-## Test Cooment 2
+
